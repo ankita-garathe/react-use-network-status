@@ -1,0 +1,21 @@
+{
+  "name": "react-use-network-status",
+  "version": "1.0.1",
+  "description": "A tiny React hook to detect online/offline status",
+  "main": "src/useNetworkStatus.js",
+  "keywords": [
+    "react",
+    "hook",
+    "network",
+    "offline",
+    "online"
+  ],
+  "author": "ankita",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "files": [
+    "src/"
+  ]
+}
